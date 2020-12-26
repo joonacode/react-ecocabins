@@ -1,0 +1,20 @@
+header {
+  margin-top: -80px;
+  height: 800px;
+  background-image: url('../../assets/images/IMGHero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+}
+
+.header-title {
+  line-height: 57px;
+}
+
+.social-media-rotate {
+  transform: rotate(90deg);
+  position: absolute;
+  right: -200px;
+  top: -100px;
+}

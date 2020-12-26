@@ -1,0 +1,46 @@
+.intro-left {
+  position: absolute;
+}
+
+.intro-right {
+  position: absolute;
+  right: 9rem;
+  top: 100px;
+}
+
+.intro-right img {
+  width: 470px;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro-right {
+    right: 28%;
+    top: 500px;
+  }
+  .intro-right img {
+    width: 370px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro-right {
+    right: 23%;
+    top: 650px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .intro-right {
+    display: none;
+  }
+  .intro-left {
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 468px) {
+  .intro-left {
+    position: relative;
+    margin-bottom: 50px;
+  }
+}
