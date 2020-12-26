@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-ecocabins/static/css/main.ccb80fa7.chunk.css",
+    "main.js": "/react-ecocabins/static/js/main.64c0f5d4.chunk.js",
+    "main.js.map": "/react-ecocabins/static/js/main.64c0f5d4.chunk.js.map",
+    "runtime-main.js": "/react-ecocabins/static/js/runtime-main.e985bf61.js",
+    "runtime-main.js.map": "/react-ecocabins/static/js/runtime-main.e985bf61.js.map",
+    "static/js/2.973a6a3f.chunk.js": "/react-ecocabins/static/js/2.973a6a3f.chunk.js",
+    "static/js/2.973a6a3f.chunk.js.map": "/react-ecocabins/static/js/2.973a6a3f.chunk.js.map",
+    "static/js/3.69df294a.chunk.js": "/react-ecocabins/static/js/3.69df294a.chunk.js",
+    "static/js/3.69df294a.chunk.js.map": "/react-ecocabins/static/js/3.69df294a.chunk.js.map",
+    "index.html": "/react-ecocabins/index.html",
+    "static/css/main.ccb80fa7.chunk.css.map": "/react-ecocabins/static/css/main.ccb80fa7.chunk.css.map",
+    "static/js/2.973a6a3f.chunk.js.LICENSE.txt": "/react-ecocabins/static/js/2.973a6a3f.chunk.js.LICENSE.txt",
+    "static/media/ICPlay.7d3db90b.svg": "/react-ecocabins/static/media/ICPlay.7d3db90b.svg",
+    "static/media/IMGFooter.8e5f9edb.png": "/react-ecocabins/static/media/IMGFooter.8e5f9edb.png",
+    "static/media/hero.css": "/react-ecocabins/static/media/IMGHero.7789472f.png",
+    "static/media/IMGLogo.1df09a41.svg": "/react-ecocabins/static/media/IMGLogo.1df09a41.svg",
+    "static/media/IMGSlider1.8896837a.png": "/react-ecocabins/static/media/IMGSlider1.8896837a.png",
+    "static/media/menu.889dfc07.svg": "/react-ecocabins/static/media/menu.889dfc07.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e985bf61.js",
+    "static/js/2.973a6a3f.chunk.js",
+    "static/css/main.ccb80fa7.chunk.css",
+    "static/js/main.64c0f5d4.chunk.js"
+  ]
+}
