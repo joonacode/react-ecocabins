@@ -12,6 +12,12 @@ header {
   line-height: 57px;
 }
 
+@media screen and (max-width: 1024px) {
+  .header-title {
+    line-height: normal;
+  }
+}
+
 .social-media-rotate {
   transform: rotate(90deg);
   position: absolute;

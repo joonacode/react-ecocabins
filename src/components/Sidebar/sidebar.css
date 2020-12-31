@@ -1,0 +1,7 @@
+.sidebar {
+  right: -100%;
+  transition: 0.5s ease-in-out !important;
+}
+.sidebar.active {
+  right: 0 !important;
+}

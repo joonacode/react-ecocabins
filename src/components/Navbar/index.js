@@ -3,7 +3,7 @@ import { Link } from 'react-scroll'
 import { ICMenu } from '../../assets'
 import Logo from '../Logo'
 
-const Navbar = () => {
+const Navbar = ({ toggleSidebar }) => {
   return (
     <div className='py-5'>
       <div className='container mx-auto xl:px-20 lg:px-10 px-5  '>
@@ -13,16 +13,16 @@ const Navbar = () => {
           </div>
           <div className='items-center md:flex hidden'>
             <Link className='mr-7 text-white' to='home'>
-              Models
+              Modellen
             </Link>
             <Link className='mr-7 text-white' to='home'>
-              To Buy
+              Kopen
             </Link>
             <Link className='mr-7 text-white' to='home'>
-              Rent
+              Huren
             </Link>
             <Link className='mr-7 text-white' to='home'>
-              News
+              Nieuws
             </Link>
             <button
               type='button'
@@ -32,7 +32,7 @@ const Navbar = () => {
             </button>
           </div>
           <div className='md:hidden block'>
-            <button>
+            <button onClick={toggleSidebar}>
               <img src={ICMenu} alt='menu' className='h-7 w-7' />
             </button>
           </div>
