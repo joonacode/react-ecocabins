@@ -12,16 +12,16 @@ const Navbar = ({ toggleSidebar }) => {
             <Logo />
           </div>
           <div className='items-center md:flex hidden'>
-            <Link className='mr-7 text-white' to='home'>
+            <Link className='mr-7 text-white cursor-pointer' to='home'>
               Modellen
             </Link>
-            <Link className='mr-7 text-white' to='home'>
+            <Link className='mr-7 text-white cursor-pointer' to='home'>
               Kopen
             </Link>
-            <Link className='mr-7 text-white' to='home'>
+            <Link className='mr-7 text-white cursor-pointer' to='home'>
               Huren
             </Link>
-            <Link className='mr-7 text-white' to='home'>
+            <Link className='mr-7 text-white cursor-pointer' to='home'>
               Nieuws
             </Link>
             <button

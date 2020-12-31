@@ -17,19 +17,19 @@ const Sidebar = ({ toggleSidebar, sidebar }) => {
         <FaTimes />
       </span>
       <div className='flex flex-col items-center justify-center h-full space-y-5 clearfix'>
-        <Link className='mr-7 text-gray-700 text-xl' to='home'>
+        <Link className='mr-7 text-gray-700 cursor-pointer text-xl' to='home'>
           Modellen
         </Link>
-        <Link className='mr-7 text-gray-700 text-xl' to='home'>
+        <Link className='mr-7 text-gray-700 cursor-pointer text-xl' to='home'>
           Kopen
         </Link>
-        <Link className='mr-7 text-gray-700 text-xl' to='home'>
+        <Link className='mr-7 text-gray-700 cursor-pointer text-xl' to='home'>
           Huren
         </Link>
-        <Link className='mr-7 text-gray-700 text-xl' to='home'>
+        <Link className='mr-7 text-gray-700 cursor-pointer text-xl' to='home'>
           Nieuws
         </Link>
-        <Link className='mr-7 text-gray-700 text-xl' to='home'>
+        <Link className='mr-7 text-gray-700 cursor-pointer text-xl' to='home'>
           Contact
         </Link>
       </div>
